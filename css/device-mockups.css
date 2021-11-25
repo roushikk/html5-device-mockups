@@ -40,7 +40,7 @@
 
 .device[data-device=galaxyS3][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS3/portrait_black.png);
+  background-image: url(../img/device-mockups/galaxyS3/portrait_black.png);
   z-index: -1;
 }
 
@@ -64,7 +64,7 @@
 
 .device[data-device=galaxyS3][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS3/portrait_white.png);
+  background-image: url(../img/device-mockups/galaxyS3/portrait_white.png);
   z-index: -1;
 }
 
@@ -88,7 +88,7 @@
 
 .device[data-device=galaxyS3][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS3/landscape_black.png);
+  background-image: url(../img/device-mockups/galaxyS3/landscape_black.png);
   z-index: -1;
 }
 
@@ -112,7 +112,7 @@
 
 .device[data-device=galaxyS3][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS3/landscape_white.png);
+  background-image: url(../img/device-mockups/galaxyS3/landscape_white.png);
   z-index: -1;
 }
 
@@ -136,7 +136,7 @@
 
 .device[data-device=galaxyS5][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/portrait_black.png);
+  background-image: url(../img/device-mockups/galaxyS5/portrait_black.png);
   z-index: -1;
 }
 
@@ -160,7 +160,7 @@
 
 .device[data-device=galaxyS5][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/portrait_white.png);
+  background-image: url(../img/device-mockups/galaxyS5/portrait_white.png);
   z-index: -1;
 }
 
@@ -184,7 +184,7 @@
 
 .device[data-device=galaxyS5][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/portrait_gold.png);
+  background-image: url(../img/device-mockups/galaxyS5/portrait_gold.png);
   z-index: -1;
 }
 
@@ -208,7 +208,7 @@
 
 .device[data-device=galaxyS5][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/landscape_black.png);
+  background-image: url(../img/device-mockups/galaxyS5/landscape_black.png);
   z-index: -1;
 }
 
@@ -232,7 +232,7 @@
 
 .device[data-device=galaxyS5][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/landscape_white.png);
+  background-image: url(../img/device-mockups/galaxyS5/landscape_white.png);
   z-index: -1;
 }
 
@@ -256,7 +256,7 @@
 
 .device[data-device=galaxyS5][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyS5/landscape_gold.png);
+  background-image: url(../img/device-mockups/galaxyS5/landscape_gold.png);
   z-index: -1;
 }
 
@@ -280,7 +280,7 @@
 
 .device[data-device=galaxyTab4][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyTab4/portrait_black.png);
+  background-image: url(../img/device-mockups/galaxyTab4/portrait_black.png);
   z-index: -1;
 }
 
@@ -305,7 +305,7 @@
 
 .device[data-device=galaxyTab4][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/galaxyTab4/portrait_white.png);
+  background-image: url(../img/device-mockups/galaxyTab4/portrait_white.png);
   z-index: -1;
 }
 
@@ -330,7 +330,7 @@
 
 .device[data-device=iMac][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iMac/portrait_black.png);
+  background-image: url(../img/device-mockups/iMac/portrait_black.png);
   z-index: -1;
 }
 
@@ -355,7 +355,7 @@
 
 .device[data-device=iPad][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPad/portrait_black.png);
+  background-image: url(../img/device-mockups/iPad/portrait_black.png);
   z-index: -1;
 }
 
@@ -379,7 +379,7 @@
 
 .device[data-device=iPad][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPad/portrait_white.png);
+  background-image: url(../img/device-mockups/iPad/portrait_white.png);
   z-index: -1;
 }
 
@@ -403,7 +403,7 @@
 
 .device[data-device=iPad][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPad/landscape_black.png);
+  background-image: url(../img/device-mockups/iPad/landscape_black.png);
   z-index: -1;
 }
 
@@ -427,7 +427,7 @@
 
 .device[data-device=iPad][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPad/landscape_white.png);
+  background-image: url(../img/device-mockups/iPad/landscape_white.png);
   z-index: -1;
 }
 
@@ -451,7 +451,7 @@
 
 .device[data-device=iPadAir2][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/portrait_black.png);
+  background-image: url(../img/device-mockups/iPadAir2/portrait_black.png);
   z-index: -1;
 }
 
@@ -475,7 +475,7 @@
 
 .device[data-device=iPadAir2][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/portrait_white.png);
+  background-image: url(../img/device-mockups/iPadAir2/portrait_white.png);
   z-index: -1;
 }
 
@@ -499,7 +499,7 @@
 
 .device[data-device=iPadAir2][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPadAir2/portrait_gold.png);
   z-index: -1;
 }
 
@@ -523,7 +523,7 @@
 
 .device[data-device=iPadAir2][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/landscape_black.png);
+  background-image: url(../img/device-mockups/iPadAir2/landscape_black.png);
   z-index: -1;
 }
 
@@ -547,7 +547,7 @@
 
 .device[data-device=iPadAir2][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/landscape_white.png);
+  background-image: url(../img/device-mockups/iPadAir2/landscape_white.png);
   z-index: -1;
 }
 
@@ -571,7 +571,7 @@
 
 .device[data-device=iPadAir2][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPadAir2/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPadAir2/landscape_gold.png);
   z-index: -1;
 }
 
@@ -595,7 +595,7 @@
 
 .device[data-device=iPadPro][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/portrait_black.png);
+  background-image: url(../img/device-mockups/iPadPro/portrait_black.png);
   z-index: -1;
 }
 
@@ -619,7 +619,7 @@
 
 .device[data-device=iPadPro][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/portrait_white.png);
+  background-image: url(../img/device-mockups/iPadPro/portrait_white.png);
   z-index: -1;
 }
 
@@ -643,7 +643,7 @@
 
 .device[data-device=iPadPro][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPadPro/portrait_gold.png);
   z-index: -1;
 }
 
@@ -667,7 +667,7 @@
 
 .device[data-device=iPadPro][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/landscape_black.png);
+  background-image: url(../img/device-mockups/iPadPro/landscape_black.png);
   z-index: -1;
 }
 
@@ -691,7 +691,7 @@
 
 .device[data-device=iPadPro][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/landscape_white.png);
+  background-image: url(../img/device-mockups/iPadPro/landscape_white.png);
   z-index: -1;
 }
 
@@ -715,7 +715,7 @@
 
 .device[data-device=iPadPro][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPadPro/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPadPro/landscape_gold.png);
   z-index: -1;
 }
 
@@ -739,7 +739,7 @@
 
 .device[data-device=iPhone6][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone6/portrait_black.png);
   z-index: -1;
 }
 
@@ -763,7 +763,7 @@
 
 .device[data-device=iPhone6][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhone6/portrait_white.png);
   z-index: -1;
 }
 
@@ -787,7 +787,7 @@
 
 .device[data-device=iPhone6][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPhone6/portrait_gold.png);
   z-index: -1;
 }
 
@@ -811,7 +811,7 @@
 
 .device[data-device=iPhone6][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhone6/landscape_black.png);
   z-index: -1;
 }
 
@@ -835,7 +835,7 @@
 
 .device[data-device=iPhone6][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/landscape_white.png);
+  background-image: url(../img/device-mockups/iPhone6/landscape_white.png);
   z-index: -1;
 }
 
@@ -859,7 +859,7 @@
 
 .device[data-device=iPhone6][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPhone6/landscape_gold.png);
   z-index: -1;
 }
 
@@ -883,7 +883,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/portrait_black.png);
   z-index: -1;
 }
 
@@ -907,7 +907,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/portrait_white.png);
   z-index: -1;
 }
 
@@ -931,7 +931,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/portrait_gold.png);
   z-index: -1;
 }
 
@@ -955,7 +955,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/landscape_black.png);
   z-index: -1;
 }
 
@@ -979,7 +979,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/landscape_white.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/landscape_white.png);
   z-index: -1;
 }
 
@@ -1003,7 +1003,7 @@
 
 .device[data-device=iPhone6Plus][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Plus/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPhone6Plus/landscape_gold.png);
   z-index: -1;
 }
 
@@ -1027,7 +1027,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhoneSE/portrait_black.png);
   z-index: -1;
 }
 
@@ -1051,7 +1051,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhoneSE/portrait_white.png);
   z-index: -1;
 }
 
@@ -1075,7 +1075,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPhoneSE/portrait_gold.png);
   z-index: -1;
 }
 
@@ -1099,7 +1099,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=portrait][data-color=pink]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/portrait_pink.png);
+  background-image: url(../img/device-mockups/iPhoneSE/portrait_pink.png);
   z-index: -1;
 }
 
@@ -1123,7 +1123,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhoneSE/landscape_black.png);
   z-index: -1;
 }
 
@@ -1147,7 +1147,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/landscape_white.png);
+  background-image: url(../img/device-mockups/iPhoneSE/landscape_white.png);
   z-index: -1;
 }
 
@@ -1171,7 +1171,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPhoneSE/landscape_gold.png);
   z-index: -1;
 }
 
@@ -1195,7 +1195,7 @@
 
 .device[data-device=iPhoneSE][data-orientation=landscape][data-color=pink]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneSE/landscape_pink.png);
+  background-image: url(../img/device-mockups/iPhoneSE/landscape_pink.png);
   z-index: -1;
 }
 
@@ -1219,7 +1219,7 @@
 
 .device[data-device=iPhone5][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone5/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone5/portrait_black.png);
   z-index: -1;
 }
 
@@ -1243,7 +1243,7 @@
 
 .device[data-device=iPhone5][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone5/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhone5/portrait_white.png);
   z-index: -1;
 }
 
@@ -1267,7 +1267,7 @@
 
 .device[data-device=iPhone5][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone5/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhone5/landscape_black.png);
   z-index: -1;
 }
 
@@ -1291,7 +1291,7 @@
 
 .device[data-device=iPhone5][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone5/landscape_white.png);
+  background-image: url(../img/device-mockups/iPhone5/landscape_white.png);
   z-index: -1;
 }
 
@@ -1315,7 +1315,7 @@
 
 .device[data-device=Lumia930][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Lumia930/portrait_black.png);
+  background-image: url(../img/device-mockups/Lumia930/portrait_black.png);
   z-index: -1;
 }
 
@@ -1340,7 +1340,7 @@
 
 .device[data-device=Lumia930][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/Lumia930/portrait_white.png);
+  background-image: url(../img/device-mockups/Lumia930/portrait_white.png);
   z-index: -1;
 }
 
@@ -1365,7 +1365,7 @@
 
 .device[data-device=Lumia930][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Lumia930/landscape_black.png);
+  background-image: url(../img/device-mockups/Lumia930/landscape_black.png);
   z-index: -1;
 }
 
@@ -1390,7 +1390,7 @@
 
 .device[data-device=Lumia930][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/Lumia930/landscape_white.png);
+  background-image: url(../img/device-mockups/Lumia930/landscape_white.png);
   z-index: -1;
 }
 
@@ -1415,7 +1415,7 @@
 
 .device[data-device=Macbook][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook/portrait_black.png);
+  background-image: url(../img/device-mockups/Macbook/portrait_black.png);
   z-index: -1;
 }
 
@@ -1440,7 +1440,7 @@
 
 .device[data-device=Macbook][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook/portrait_white.png);
+  background-image: url(../img/device-mockups/Macbook/portrait_white.png);
   z-index: -1;
 }
 
@@ -1465,7 +1465,7 @@
 
 .device[data-device=Macbook][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook/portrait_gold.png);
+  background-image: url(../img/device-mockups/Macbook/portrait_gold.png);
   z-index: -1;
 }
 
@@ -1490,7 +1490,7 @@
 
 .device[data-device=Macbook2015][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook2015/portrait_black.png);
+  background-image: url(../img/device-mockups/Macbook2015/portrait_black.png);
   z-index: -1;
 }
 
@@ -1515,7 +1515,7 @@
 
 .device[data-device=Macbook2015][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook2015/portrait_white.png);
+  background-image: url(../img/device-mockups/Macbook2015/portrait_white.png);
   z-index: -1;
 }
 
@@ -1540,7 +1540,7 @@
 
 .device[data-device=Macbook2015][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/Macbook2015/portrait_gold.png);
+  background-image: url(../img/device-mockups/Macbook2015/portrait_gold.png);
   z-index: -1;
 }
 
@@ -1565,7 +1565,7 @@
 
 .device[data-device=MacbookPro][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/MacbookPro/portrait_black.png);
+  background-image: url(../img/device-mockups/MacbookPro/portrait_black.png);
   z-index: -1;
 }
 
@@ -1590,7 +1590,7 @@
 
 .device[data-device=SamsungTV][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/SamsungTV/portrait_black.png);
+  background-image: url(../img/device-mockups/SamsungTV/portrait_black.png);
   z-index: -1;
 }
 
@@ -1615,7 +1615,7 @@
 
 .device[data-device=Surface][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Surface/portrait_black.png);
+  background-image: url(../img/device-mockups/Surface/portrait_black.png);
   z-index: -1;
 }
 
@@ -1639,7 +1639,7 @@
 
 .device[data-device=iPhone6Hand][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Hand/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone6Hand/portrait_black.png);
   z-index: -1;
 }
 
@@ -1663,7 +1663,7 @@
 
 .device[data-device=iPhone6Hand][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone6Hand/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhone6Hand/portrait_white.png);
   z-index: -1;
 }
 
@@ -1687,7 +1687,7 @@
 
 .device[data-device=iPhone7Hand][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7Hand/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone7Hand/portrait_black.png);
   z-index: -1;
 }
 
@@ -1711,7 +1711,7 @@
 
 .device[data-device=iPhone7Hand_2][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7Hand_2/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone7Hand_2/portrait_black.png);
   z-index: -1;
 }
 
@@ -1735,7 +1735,7 @@
 
 .device[data-device=Chromebook][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Chromebook/portrait_black.png);
+  background-image: url(../img/device-mockups/Chromebook/portrait_black.png);
   z-index: -1;
 }
 
@@ -1760,7 +1760,7 @@
 
 .device[data-device=HtcOneM8][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/HtcOneM8/portrait_black.png);
+  background-image: url(../img/device-mockups/HtcOneM8/portrait_black.png);
   z-index: -1;
 }
 
@@ -1785,7 +1785,7 @@
 
 .device[data-device=HtcOneM8][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/HtcOneM8/landscape_black.png);
+  background-image: url(../img/device-mockups/HtcOneM8/landscape_black.png);
   z-index: -1;
 }
 
@@ -1810,7 +1810,7 @@
 
 .device[data-device=HuaweiP8][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/HuaweiP8/portrait_gold.png);
+  background-image: url(../img/device-mockups/HuaweiP8/portrait_gold.png);
   z-index: -1;
 }
 
@@ -1835,7 +1835,7 @@
 
 .device[data-device=HuaweiP8][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/HuaweiP8/landscape_gold.png);
+  background-image: url(../img/device-mockups/HuaweiP8/landscape_gold.png);
   z-index: -1;
 }
 
@@ -1860,7 +1860,7 @@
 
 .device[data-device=SurfacePro3][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/SurfacePro3/landscape_black.png);
+  background-image: url(../img/device-mockups/SurfacePro3/landscape_black.png);
   z-index: -1;
 }
 
@@ -1885,7 +1885,7 @@
 
 .device[data-device=SurfaceStudio][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/SurfaceStudio/portrait_black.png);
+  background-image: url(../img/device-mockups/SurfaceStudio/portrait_black.png);
   z-index: -1;
 }
 
@@ -1910,7 +1910,7 @@
 
 .device[data-device=iPhone7][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhone7/portrait_black.png);
   z-index: -1;
 }
 
@@ -1934,7 +1934,7 @@
 
 .device[data-device=iPhone7][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/portrait_white.png);
+  background-image: url(../img/device-mockups/iPhone7/portrait_white.png);
   z-index: -1;
 }
 
@@ -1958,7 +1958,7 @@
 
 .device[data-device=iPhone7][data-orientation=portrait][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/portrait_gold.png);
+  background-image: url(../img/device-mockups/iPhone7/portrait_gold.png);
   z-index: -1;
 }
 
@@ -1982,7 +1982,7 @@
 
 .device[data-device=iPhone7][data-orientation=portrait][data-color=pink]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/portrait_pink.png);
+  background-image: url(../img/device-mockups/iPhone7/portrait_pink.png);
   z-index: -1;
 }
 
@@ -2006,7 +2006,7 @@
 
 .device[data-device=iPhone7][data-orientation=portrait][data-color=red]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/portrait_red.png);
+  background-image: url(../img/device-mockups/iPhone7/portrait_red.png);
   z-index: -1;
 }
 
@@ -2030,7 +2030,7 @@
 
 .device[data-device=iPhone7][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhone7/landscape_black.png);
   z-index: -1;
 }
 
@@ -2054,7 +2054,7 @@
 
 .device[data-device=iPhone7][data-orientation=landscape][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/landscape_white.png);
+  background-image: url(../img/device-mockups/iPhone7/landscape_white.png);
   z-index: -1;
 }
 
@@ -2078,7 +2078,7 @@
 
 .device[data-device=iPhone7][data-orientation=landscape][data-color=gold]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/landscape_gold.png);
+  background-image: url(../img/device-mockups/iPhone7/landscape_gold.png);
   z-index: -1;
 }
 
@@ -2102,7 +2102,7 @@
 
 .device[data-device=iPhone7][data-orientation=landscape][data-color=pink]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/landscape_pink.png);
+  background-image: url(../img/device-mockups/iPhone7/landscape_pink.png);
   z-index: -1;
 }
 
@@ -2126,7 +2126,7 @@
 
 .device[data-device=iPhone7][data-orientation=landscape][data-color=red]::after {
   content: "";
-  background-image: url(../device-mockups/iPhone7/landscape_red.png);
+  background-image: url(../img/device-mockups/iPhone7/landscape_red.png);
   z-index: -1;
 }
 
@@ -2150,7 +2150,7 @@
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneX/portrait_black.png);
+  background-image: url(../img/device-mockups/iPhoneX/portrait_black.png);
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .button {
@@ -2174,7 +2174,7 @@
 
 .device[data-device=iPhoneX][data-orientation=landscape][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/iPhoneX/landscape_black.png);
+  background-image: url(../img/device-mockups/iPhoneX/landscape_black.png);
 }
 
 .device[data-device=iPhoneX][data-orientation=landscape][data-color=black] .button {
@@ -2198,7 +2198,7 @@
 
 .device[data-device=Pixel][data-orientation=portrait][data-color=white]::after {
   content: "";
-  background-image: url(../device-mockups/Pixel/portrait_white.png);
+  background-image: url(../img/device-mockups/Pixel/portrait_white.png);
   z-index: -1;
 }
 
@@ -2222,7 +2222,7 @@
 
 .device[data-device=Pixel][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url(../device-mockups/Pixel/portrait_black.png);
+  background-image: url(../img/device-mockups/Pixel/portrait_black.png);
   z-index: -1;
 }
 

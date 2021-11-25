@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "sass --no-source-map src/device-mockups.scss dist/device-mockups.css && sass --no-source-map --style=compressed src/device-mockups.scss dist/device-mockups.min.css"
+    "build": "sass --no-source-map src/device-mockups.scss css/device-mockups.css && sass --no-source-map --style=compressed src/device-mockups.scss css/device-mockups.min.css"
   },
   "repository": {
     "type": "git",
