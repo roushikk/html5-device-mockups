@@ -1,10 +1,7 @@
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/html5-device-mockups/Lobby)
-[![GitHub release](https://img.shields.io/github/release/pixelsign/html5-device-mockups.svg)]()
-[![Bower](https://img.shields.io/bower/v/html5-device-mockups.svg)]()
-[![npm](https://img.shields.io/npm/v/html5-device-mockups.svg)]()
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/roushikk/html5-device-mockups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-HTML5 device mockups v3 :iphone::computer:
+HTML5 device mockups v4 :iphone::computer:
 ====================
 
 You can view the demo page here: <https://pixelsign.github.io/html5-device-mockups/>
@@ -78,7 +75,7 @@ Devices
 ```
 ## Usage
 
-Use this example or grap the code from the HTML generator on our demo site:
+Use this example or grab the code from the HTML generator on our demo site:
 
 ```
 <div class="device-wrapper">
