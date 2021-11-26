@@ -73,19 +73,8 @@ Devices
 
 ## Integrating to your website:
 
-### Bower
 ```
-bower install html5-device-mockups
-```
-
-### npm
-```
-npm i html5-device-mockups
-```
-
-### Old traditional way
-```
-<link rel="stylesheet" type="text/css" href="dist/device-mockups.min.css">
+<link rel="stylesheet" href="css/device-mockups.min.css">
 ```
 ## Usage
 
@@ -94,8 +83,8 @@ Use this example or grap the code from the HTML generator on our demo site:
 ```
 <div class="device-wrapper">
   <div class="device" data-device="iPhone5" data-orientation="portrait" data-color="black">
-    <div class="screen">
-      <!-- PUT CONTENTS HERE -->
+    <div class="screen" style="background-image: url(YOUR_IMAGE_URL_HERE)">
+      
     </div>
     <div class="button">
       <!-- You can hook the "home button" to some JavaScript events or just remove it -->
