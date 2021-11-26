@@ -64,7 +64,8 @@ Devices
 | Lumia 930 | Lumia930 | portrait, landscape | black, white |
 | Macbook | Macbook | portrait | black, white, gold |
 | Macbook 2015 | Macbook2015 | portrait | black, white, gold |
-| MacbookPro | Macbook2015 | portrait | black |
+| Macbook Pro | MacbookPro | portrait | black |
+| Macbook Pro 2021 | MacbookPro2021 | portrait | black |
 | Pixel | Pixel | portrait | black, white |
 | Samsung TV | SamsungTV | portrait | black |
 | Surface Pro 3 | SurfacePro3 | landscape | black |

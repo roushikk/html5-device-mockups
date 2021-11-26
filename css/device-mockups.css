@@ -1856,78 +1856,78 @@
   height: 78.6637931034%;
 }
 .device[data-device=Pixel][data-orientation=portrait][data-color=black]::after {
-    content: "";
-    background-image: url(../img/device-mockups/Pixel/portrait_black.png);
-    z-index: -1;
+  content: "";
+  background-image: url(../img/device-mockups/Pixel/portrait_black.png);
+  z-index: -1;
 }
 .device[data-device=Pixel][data-orientation=portrait][data-color=black] .button {
-    top: 90.5172413793%;
-    left: 44.9781659389%;
-    width: 11.3537117904%;
-    height: 4.3103448276%;
+  top: 90.5172413793%;
+  left: 44.9781659389%;
+  width: 11.3537117904%;
+  height: 4.3103448276%;
 }
 .device[data-device=iPhone13][data-orientation=portrait][data-color=black] {
-    padding-bottom: 199.9248120301%;
+  padding-bottom: 199.9248120301%;
 }
 .device[data-device=iPhone13][data-orientation=portrait][data-color=black] .screen {
-    top: 2.4821361414%;
-    left: 5.8646616541%;
-    width: 88.2706766917%;
-    height: 95.3742008274%;
+  top: 2.4821361414%;
+  left: 5.8646616541%;
+  width: 88.2706766917%;
+  height: 95.3742008274%;
 }
 .device[data-device=iPhone13][data-orientation=portrait][data-color=black]::after {
-    content: "";
-    background-image: url(../img/device-mockups/iPhone13/portrait_black.png);
+  content: "";
+  background-image: url(../img/device-mockups/iPhone13/portrait_black.png);
 }
 .device[data-device=iPhone13][data-orientation=portrait][data-color=black] .button {
-    display: none;
-    top: 0%;
-    left: 0%;
-    width: 100%;
-    height: 100%;
+  display: none;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
 }
 .device[data-device=iPhone13][data-orientation=landscape][data-color=black] {
-    padding-bottom: 50.0188040617%;
+  padding-bottom: 50.0188040617%;
 }
 .device[data-device=iPhone13][data-orientation=landscape][data-color=black] .screen {
-    top: 5.8646616541%;
-    left: 2.4821361414%;
-    width: 95.3742008274%;
-    height: 88.2706766917%;
+  top: 5.8646616541%;
+  left: 2.4821361414%;
+  width: 95.3742008274%;
+  height: 88.2706766917%;
 }
 .device[data-device=iPhone13][data-orientation=landscape][data-color=black]::after {
-    content: "";
-    background-image: url(../img/device-mockups/iPhone13/landscape_black.png);
+  content: "";
+  background-image: url(../img/device-mockups/iPhone13/landscape_black.png);
 }
 
 .device[data-device=iPhone13][data-orientation=landscape][data-color=black] .button {
-    display: none;
-    top: 0%;
-    left: 0%;
-    width: 100%;
-    height: 100%;
+  display: none;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
 }
 
-.device[data-device=MacBookPro2021][data-orientation=portrait][data-color=black] {
-    padding-bottom: 60.9489051095%;
+.device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] {
+  padding-bottom: 60.9489051095%;
 }
 
-.device[data-device=MacBookPro2021][data-orientation=portrait][data-color=black] .screen {
-    top: 1.9161676647%;
-    left: 8.9781021898%;
-    width: 82.0072992701%;
-    height: 87.3053892216%;
+.device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] .screen {
+  top: 1.9161676647%;
+  left: 8.9781021898%;
+  width: 82.0072992701%;
+  height: 87.3053892216%;
 }
 
-.device[data-device=MacBookPro2021][data-orientation=portrait][data-color=black]::after {
-    content: "";
-    background-image: url(../img/device-mockups/MacBookPro2021/portrait_black.png);
+.device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black]::after {
+  content: "";
+  background-image: url(../img/device-mockups/MacbookPro2021/portrait_black.png);
 }
 
-.device[data-device=MacBookPro2021][data-orientation=portrait][data-color=black] .button {
-    display: none;
-    top: 0%;
-    left: 0%;
-    width: 100%;
-    height: 100%;
+.device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] .button {
+  display: none;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
 }
