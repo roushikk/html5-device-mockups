@@ -1899,7 +1899,6 @@
   content: "";
   background-image: url(../img/device-mockups/iPhone13/landscape_black.png);
 }
-
 .device[data-device=iPhone13][data-orientation=landscape][data-color=black] .button {
   display: none;
   top: 0%;
@@ -1907,24 +1906,60 @@
   width: 100%;
   height: 100%;
 }
-
 .device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] {
   padding-bottom: 60.9489051095%;
 }
-
 .device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] .screen {
   top: 1.9161676647%;
   left: 8.9781021898%;
   width: 82.0072992701%;
   height: 87.3053892216%;
 }
-
 .device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black]::after {
   content: "";
   background-image: url(../img/device-mockups/MacbookPro2021/portrait_black.png);
 }
-
 .device[data-device=MacbookPro2021][data-orientation=portrait][data-color=black] .button {
+  display: none;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+}
+.device[data-device=iPhone15Pro][data-orientation=portrait][data-color=black] {
+  padding-bottom: 203.2307692308%;
+}
+.device[data-device=iPhone15Pro][data-orientation=portrait][data-color=black] .screen {
+  top: 2.0817562453%;
+  left: 5.0769230769%;
+  width: 89.8461538462%;
+  height: 95.7986373959%;
+}
+.device[data-device=iPhone15Pro][data-orientation=portrait][data-color=black]::after {
+  content: "";
+  background-image: url(../img/device-mockups/iPhone15Pro/portrait_black.png);
+}
+.device[data-device=iPhone15Pro][data-orientation=portrait][data-color=black] .button {
+  display: none;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+}
+.device[data-device=iPhone15Pro][data-orientation=landscape][data-color=black] {
+  padding-bottom: 49.2051476154%;
+}
+.device[data-device=iPhone15Pro][data-orientation=landscape][data-color=black] .screen {
+  top: 5.0769230769%;
+  left: 2.0817562453%;
+  width: 95.7986373959%;
+  height: 89.8461538462%;
+}
+.device[data-device=iPhone15Pro][data-orientation=landscape][data-color=black]::after {
+  content: "";
+  background-image: url(../img/device-mockups/iPhone15Pro/landscape_black.png);
+}
+.device[data-device=iPhone15Pro][data-orientation=landscape][data-color=black] .button {
   display: none;
   top: 0%;
   left: 0%;
